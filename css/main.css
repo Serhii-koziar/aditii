@@ -554,6 +554,9 @@ footer{
 		transform: translateX(0px) translateY(50%); 
 	}
 }
+.popup__input{
+	
+}
 @media screen and (max-width:800px){
 	.slider__item{
 		padding-right: 0px;
