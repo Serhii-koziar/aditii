@@ -555,8 +555,15 @@ footer{
 	}
 }
 .popup__input{
+	max-width: 300px;
+	width: 100%;
+	display: block;
 	
+	margin-top: 10px;
+	margin-bottom: 10px;
+
 }
+.popup__btn
 @media screen and (max-width:800px){
 	.slider__item{
 		padding-right: 0px;
